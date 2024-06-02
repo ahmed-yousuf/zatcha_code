@@ -1,7 +1,7 @@
 name: zatcha_code
 description: "This package provides a straightforward method to convert a TLV string and Base64 string in Dart to generate the Base 64 Zatcha code."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/ahmed-yousuf/zatcha_code"
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
@@ -15,6 +15,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+
+# Add the license field
+license: MIT
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
